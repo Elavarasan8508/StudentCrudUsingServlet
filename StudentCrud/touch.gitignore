@@ -1,0 +1,25 @@
+# Ignore Eclipse metadata and settings
+.metadata/
+*.log
+Servers/
+
+# Ignore OS/system files
+*.DS_Store
+Thumbs.db
+
+# Ignore class and build files
+*.class
+*.war
+*.jar
+*.iml
+bin/
+build/
+target/
+out/
+
+# Ignore IDE settings
+*.swp
+*.swo
+.idea/
+*.project
+*.classpath
